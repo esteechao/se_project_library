@@ -20,7 +20,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: flex-start;
 }
 
 .logo {
@@ -274,9 +274,13 @@
   display: flex;
   justify-content: flex-end;
   flex-wrap: wrap;
+  flex-direction: row;
   row-gap: 40px;
   column-gap: 40px;
   margin: auto;
+  list-style-type: none;
+  margin: 68px auto 0;
+  padding: 0;
 }
 
 .card {
@@ -337,6 +341,7 @@
   flex-direction: row;
   justify-content: center;
   column-gap: 40px;
+  margin: 100px 150px 0px 150px;
 }
 
 .step {
@@ -377,9 +382,6 @@
   line-height: 30px;
   font-weight: 500;
   z-index: 3;
-  display: flex;
-  flex-direction: row;
-  align-items: baseline;
   max-width: 154px;
 }
 
@@ -391,7 +393,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-left: 115px;
+  padding: 0 0 0 115px;
 }
 
 .about__paragraph {
