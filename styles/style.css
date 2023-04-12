@@ -341,7 +341,7 @@
   flex-direction: row;
   justify-content: center;
   column-gap: 40px;
-  margin: 100px 150px 0px 0px;
+  margin: 100px 0px 0px 0px;
 }
 
 .step {
