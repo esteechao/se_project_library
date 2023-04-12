@@ -246,7 +246,7 @@
   padding-top: 100px;
   padding-bottom: 140px;
   background-image: url(../images/staff_picks_background.jpg);
-  background-size: auto;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -341,7 +341,7 @@
   flex-direction: row;
   justify-content: center;
   column-gap: 40px;
-  margin: 100px 150px 0px 150px;
+  margin: 100px 150px 0px 0px;
 }
 
 .step {
@@ -393,7 +393,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 0 0 0 115px;
+  padding: 0 0 0 120px;
 }
 
 .about__paragraph {
