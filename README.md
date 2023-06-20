@@ -1,4 +1,4 @@
-# Project 1: Library Fun
+# Project 1: Library
 
 The Library webpage is the first project in the Software Engineer program at Practicum. It was created using HTML and CSS, based on a design brief.
 
