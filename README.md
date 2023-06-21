@@ -1,6 +1,6 @@
 # Project 1: Library
 
-The Library webpage was created using HTML5 and CSS, based on a design brief.
+The Library webpage was created using HTML5 and CSS3, based on a design brief.
 
 ## Project features
 
